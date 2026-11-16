@@ -1,0 +1,13 @@
+# Researchista
+
+> Researchista turns research into things people love to play, wear and use — and certifies the link between a product and the research that inspired it.
+
+## Key Pages
+- [Home](https://researchista.eu/): Overview of Researchista, Mobility Era Game, and the Research-Powered Seal.
+- [Products](https://researchista.eu/products): Shop research-powered games, tools, and educator kits.
+- [Mobility Era Game (#001)](https://researchista.eu/products/mobility-era-game): Board game & mobile app across 41 European countries, inspired by Dr. Irina Burlacu's PhD research at Maastricht University (funded by FNR).
+- [Research-Powered Certification](https://researchista.eu/certification): What the Seal means, 3-step verification, certified directory, and application form.
+- [For Researchers](https://researchista.eu/for-researchers): 5-step path from thesis to certified product.
+- [About & Story](https://researchista.eu/about): Founder story, mission, and timeline (Thesis -> Game -> App -> Awards -> Certification).
+- [Play & Learn](https://researchista.eu/play-and-learn): For teachers, workshops, events, and families.
+- [Journal](https://researchista.eu/blog): Essays on science communication and research-powered products.

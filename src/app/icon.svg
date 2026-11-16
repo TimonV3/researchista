@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#FAF7F2"/>
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="none" stroke="#2DA9FF" stroke-width="3"/>
+  <!-- Bold R -->
+  <text x="32" y="46" text-anchor="middle" fill="#2DA9FF" font-size="36" font-weight="800" font-family="system-ui, -apple-system, sans-serif">R</text>
+  <!-- Golden laurel accent -->
+  <path d="M16 42c-4-3-6-9-4-15 2 3 4 5 4 9-2-3-2-7-1-11 2 3 3 6 3 9" fill="#F4C430"/>
+  <path d="M48 42c4-3 6-9 4-15-2 3-4 5-4 9 2-3 2-7 1-11-2 3-3 6-3 9" fill="#F4C430"/>
+  <!-- Signature black glasses at top -->
+  <g transform="translate(17, 10)" fill="none" stroke="#131A26" stroke-width="2.2" stroke-linecap="round">
+    <path d="M1 3 C5 0.5, 11 2, 13 5.5 C14 8, 10 10, 5.5 10 C2 10, 1 6.5, 1 3 Z"/>
+    <path d="M29 3 C25 0.5, 19 2, 17 5.5 C16 8, 20 10, 24.5 10 C28 10, 29 6.5, 29 3 Z"/>
+    <path d="M13 4.8 Q15 3.2 17 4.8"/>
+  </g>
+</svg>
