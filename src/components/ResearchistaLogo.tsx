@@ -29,6 +29,7 @@ export function ResearchistaLogo({
           width={621}
           height={99}
           priority
+          unoptimized
           className="h-9 sm:h-11 w-auto object-contain"
         />
       </motion.div>
@@ -42,6 +43,7 @@ export function ResearchistaLogo({
         alt="Researchista — Connecting the ivory tower with the public since 2016"
         width={621}
         height={99}
+        unoptimized
         className="w-60 sm:w-72 h-auto object-contain"
       />
     </div>
