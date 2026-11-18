@@ -105,7 +105,7 @@ export default function PlayAndLearnPage() {
             BOOK A WORKSHOP OR CLASSROOM KIT
           </span>
           <h2 className="font-serif text-3xl font-bold text-ink">
-            Bring Mobility Era to your school, university, or event.
+            Bring Mobility Era Game to your school, university, or event.
           </h2>
         </Reveal>
         <WorkshopInquiryForm />
@@ -116,7 +116,7 @@ export default function PlayAndLearnPage() {
           <div className="rounded-[2rem] bg-ink text-paper p-8 sm:p-12 flex flex-col md:flex-row items-start md:items-center justify-between gap-8">
             <div className="space-y-2 max-w-xl">
               <h2 className="font-serif text-3xl font-bold text-white">
-                Ready to bring Mobility Era to your classroom or event?
+                Ready to bring Mobility Era Game to your classroom or event?
               </h2>
               <p className="text-sm text-paper/75">
                 Start with Mobility Era Game (#001) or reach out to organize a

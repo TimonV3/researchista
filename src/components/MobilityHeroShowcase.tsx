@@ -50,7 +50,7 @@ export function MobilityHeroShowcase() {
 
           <div className="space-y-2 mb-6">
             <h2 className="font-serif text-3xl sm:text-4xl font-bold tracking-tight text-white">
-              Mobility Era
+              Mobility Era Game
             </h2>
             <p className="text-sm text-paper/75">
               The game of your life across 41 European countries. Study, work,
